@@ -1,0 +1,2 @@
+risk_id,category,risk_description,likelihood_1_to_5,impact_1_to_5,early_warning_trigger,owner,prevention_or_mitigation,contingency,residual_risk,status
+R-001,,,,,,,,,,open

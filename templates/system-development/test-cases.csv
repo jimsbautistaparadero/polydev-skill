@@ -1,0 +1,2 @@
+test_case_id,requirement_id,test_level,objective,preconditions,test_data,steps,expected_result,actual_result,status,evidence_reference,tester,date,defect_id
+TC-001,,,,,,,,,not-run,,,,

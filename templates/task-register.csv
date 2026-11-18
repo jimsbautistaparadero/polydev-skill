@@ -1,0 +1,2 @@
+task_id,phase,task,deliverable,prerequisite_task_ids,owner,effort_hours,effort_confidence,target_date,status,acceptance_criteria,evidence_location,blocker_or_risk
+T-001,0-reconnaissance,Inventory study files and institutional requirements,Artifact inventory,,unknown,0,low,provisional,not-started,All relevant existing materials inventoried and status-labelled,,
